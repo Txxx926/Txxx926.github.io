@@ -13,7 +13,8 @@ body {
   color: #DAD4C7;
   line-height: 24px;
   margin: 0;
-  border-top: 7px solid {{ site.data.theme.highlight_color }};
+ /* border-top: 7px solid {{ site.data.theme.highlight_color }};*/
+  border-top: 7px solid #372288
 }
 
 h1, h2, h3, h4, h5, h6 {
