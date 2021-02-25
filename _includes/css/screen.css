@@ -15,13 +15,13 @@ body {
   line-height: 24px;
   margin: 0;
  /* border-top: 7px solid {{ site.data.theme.highlight_color }};*/
-  border-top: 7px solid #261E30
+  border-top: 7px solid #261E30;
 }
 
 h1, h2, h3, h4, h5, h6 {
   color: #181818;
   /*font-family: "open sans", sans-serif;*/
-  font-family: Georgia, serif
+  font-family: Georgia, serif;
   font-weight: 600;
 }
 
