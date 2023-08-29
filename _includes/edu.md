@@ -14,7 +14,7 @@
 <tr>
 <th><img src="assets/img/CUHK.svg" alt="" width="100" height="100" /></th>
 <td>
-<p>P.h.D:&nbsp;<strong>The Chinese University of Hong Kong.</strong></p>
+<p>Ph.D.:&nbsp;<strong>The Chinese University of Hong Kong.</strong></p>
 <ul style="list-style-type: circle;">
 <li>Period: 2022 - current</li>
 </ul>
