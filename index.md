@@ -4,19 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am now a second-year PhD Student @[CUHK CSE](https://www.cse.cuhk.edu.hk/), supervised by [Prof. Henry Xu](https://henryhxu.github.io/). Before, I got my B.E from @[NWPU CS](https://en.nwpu.edu.cn/) in July, 2022.
 
 ## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
+  I am broadly insterted in system design for Machine Learning (MLSys), epecially in inference scenarios.
+- **Resource Scheduling:** Optimize the utilization of available resources to enhance serving capabilities and provide superior performance.
+- **Inference System:** Design highly effective and scalable systems capable of accommodating and efficiently serving a large volume of requests.
+- 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Aug. 2022]** Join CUHK CSE as a PhD student.
+
 
 {% include_relative _includes/publications.md %}
 
