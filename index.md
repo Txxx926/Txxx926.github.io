@@ -9,7 +9,7 @@ I am now a second-year PhD Student @[CUHK CSE](https://www.cse.cuhk.edu.hk/), su
 ## Research Interests
   I am broadly insterted in system design for Machine Learning (MLSys), epecially in inference scenarios.
 - **Resource Scheduling:** Optimize the utilization of available resources to enhance serving capabilities and provide superior performance.
-- **Inference System:** Design highly effective and scalable systems capable of accommodating and efficiently serving a large volume of requests.
+- **ML Inference:** Design highly effective and scalable systems capable of accommodating and efficiently serving a large volume of requests.
 
 
 ## News
