@@ -17,4 +17,6 @@ I am now a second-year PhD Student @[CUHK CSE](https://www.cse.cuhk.edu.hk/), su
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/awards.md %}
+
 {% include_relative _includes/services.md %}
