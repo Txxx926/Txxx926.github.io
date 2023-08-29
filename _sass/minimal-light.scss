@@ -7,7 +7,8 @@
   height:2.4rem;
   width:2.4rem;
   background-color:transparent;
-  color:#043361!important;
+  // color:#043361!important;
+  color: #57068c !important;
   border-radius:100%;
   text-align:center;
   font-size:1.15rem;
@@ -138,7 +139,8 @@ email {
 .icon-button:hover .icon-twitter,.icon-button:hover .icon-facebook,.icon-button:hover .icon-github,.icon-button:hover .icon-linkedin{color:white}
 
 autocolor{
-  color:#595959;
+  // color:#595959;
+  color: #57068c;
 }
 
 lightonly {
@@ -160,12 +162,15 @@ papertitle {
 
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: #20212b;
-        color: #dadbdf;
+        // background-color: #20212b;
+        // color: #dadbdf;
+        background-color: #404040;
+        color: #eee6f3;
     }
 
     autocolor{
-      color:#dadbdf;
+       // color:#dadbdf;
+       color: #ab82c5;
     }
 
     lightonly {
@@ -216,8 +221,8 @@ papertitle {
 
       .image.avatar img {
         border-radius: 100%;
-        width: 45%;
-        padding: 20px;
+        width: 80%;
+        padding: 40px;
         // border: 1px solid #ddd;
         // padding: 3px;
         // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
