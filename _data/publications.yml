@@ -1,5 +1,11 @@
 main:
-
+  - title: Arlo: Serving Transformer-based Language Models with Dynamic Input Lengths
+    authors: <strong>Xin Tan</strong>, Jiamin Li, Yitao Yang, Jingzong Li, HX
+    conference_short: ICPP
+    conference: International Conference on Parallel Processing <strong>(ICPP)</strong>, 2024.
+   
+    
+  
   # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
   #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
   #   conference_short: MICCAI
