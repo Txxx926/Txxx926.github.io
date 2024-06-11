@@ -1,9 +1,8 @@
 main:
-
-  - title: Arlo: Serving Transformer-based Language Models with Dynamic Input Lengths
-    authors: <strong>Xin Tan</strong>, Jiamin Li, Yitao Yang, Jingzong Li, HX
-    conference_short: ICPP
-    conference: International Conference on Parallel Processing <strong>(ICPP)</strong>, 2024.
+  - title: "Arlo: Serving Transformer-based Language Models with Dynamic Input Lengths"
+    authors: "<strong>Xin Tan</strong>, Jiamin Li, Yitao Yang, Jingzong Li, Hong Xu"
+    conference_short: "ICPP"
+    conference: "International Conference on Parallel Processing <strong>(ICPP)</strong>, 2024."
    
     
   
