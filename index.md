@@ -13,8 +13,8 @@ I am now a second-year PhD Student @[CUHK CSE](https://www.cse.cuhk.edu.hk/), su
 
 
 ## News
-- **[June. 2024]** [Arlo](https://txxx926.github.io/) accepted to ACM ICPP’24. 
-- **[Aug. 2022]** Join CUHK CSE as a PhD student.
+- **[06/2024]** [Arlo](https://txxx926.github.io/) accepted to ACM ICPP’24. 
+- **[08/2022]** Join CUHK CSE as a PhD student.
 
 
 {% include_relative _includes/publications.md %}
