@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am now a second-year PhD Student @[CUHK CSE](https://www.cse.cuhk.edu.hk/), supervised by [Prof. Henry Xu](https://henryhxu.github.io/). Before, I got my B.E from @[NWPU CS](https://en.nwpu.edu.cn/) in July, 2022.
+I am now a second-year PhD Student @[CUHK CSE](https://www.cse.cuhk.edu.hk/), supervised by [Prof. Henry Xu](https://henryhxu.github.io/). Prior to this, I got my B.E from @[NWPU CS](https://www.nwpu.edu.cn/) in July, 2022.
 
 ## Research Interests
   I am broadly interested in system design for Machine Learning (**<autocolor>MLSys</autocolor>**), epecially in inference scenarios.
-- **<autocolor>Resource Scheduling:</autocolor>** Optimize the utilization of available resources to enhance serving capabilities and provide superior performance.
+- **<autocolor>Resource Scheduling:</autocolor>** Optimize the allocation and utilization of available resources to enhance service capabilities and deliver superior performance.
 - **<autocolor>ML Inference:</autocolor>** Design highly effective and scalable systems capable of accommodating and efficiently serving a large volume of requests.
 
 
