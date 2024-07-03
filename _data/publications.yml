@@ -1,13 +1,11 @@
 main:
   - title: "Teola: Towards End-to-End Optimization of LLM-based Applications"
     authors: "<strong>Xin Tan</strong>, Yimin Jiang, Yitao Yang, Hong Xu"
-    conference_short: "Preprint"
     conference: "ArXiv Preprint arXiv:2407.00326, 2024."
     pdf: https://arxiv.org/pdf/2407.00326
     
   - title: "Arlo: Serving Transformer-based Language Models with Dynamic Input Lengths"
     authors: "<strong>Xin Tan</strong>, Jiamin Li, Yitao Yang, Jingzong Li, Hong Xu"
-    conference_short: "ACM ICPP"
     conference: "ACM International Conference on Parallel Processing <strong>(ICPP)</strong>, 2024."
    
     
