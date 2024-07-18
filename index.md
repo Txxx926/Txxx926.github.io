@@ -10,7 +10,7 @@ I am now a second-year PhD Student @[CUHK CSE](https://www.cse.cuhk.edu.hk/), su
   I am broadly interested in system design for Machine Learning (**<autocolor>MLSys</autocolor>**), epecially in inference scenarios.
 - **<autocolor>Resource Scheduling:</autocolor>** Maximize the allocation and utilization of available resources to accomodate workloads in the cluster.
 - **<autocolor>ML Inference:</autocolor>** Design highly effective and scalable systems capable of efficiently serving a large volume of requests.
-- **<autocolor>Distributed Training:</autocolor>** Develop and optimize training strategies for efficient training of large models at scale.
+- **<autocolor>Distributed Training:</autocolor>** Develop and optimize strategies for efficient training of large models at scale.
 
 
 ## News
