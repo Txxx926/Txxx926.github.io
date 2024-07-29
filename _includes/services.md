@@ -11,4 +11,6 @@
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.usenix.org/conference/osdi24/call-for-artifacts"><autocolor>USENIX OSDI/ATC 2024</autocolor></a></li>
+  <li><a href="https://sysartifacts.github.io/eurosys2025/organizers"><autocolor>ACM EuroSys 2025 Spring/Fall</autocolor></a></li>
+ 
 </ul>
