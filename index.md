@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am now a second-year PhD Student @[CUHK CSE](https://www.cse.cuhk.edu.hk/), supervised by [Prof. Henry Xu](https://henryhxu.github.io/). Prior to this, I got my B.E from @[NWPU CS](https://www.nwpu.edu.cn/) in July, 2022.
+I am now a third-year PhD Student @[CUHK CSE](https://www.cse.cuhk.edu.hk/), supervised by [Prof. Henry Xu](https://henryhxu.github.io/). Prior to this, I got my B.E from @[NWPU CS](https://www.nwpu.edu.cn/) in July, 2022.
 
 ## Research Interests
   I am broadly interested in system design for Machine Learning (**<autocolor>MLSys</autocolor>**), including the following topics:
