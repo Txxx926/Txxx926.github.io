@@ -13,6 +13,9 @@ I am now a PhD candidate @[CUHK CSE](https://www.cse.cuhk.edu.hk/), supervised b
 - **<autocolor>Distributed Training:</autocolor>** Develop and optimize strategies for efficient training of large models at scale.
 
 
+  Currently, I am focusing my research on **<autocolor>accelerating large-scale training for diffusion-based video generation</autocolor>**.
+
+
 ## News
 - **[06/2024]** &nbsp;[Arlo](https://txxx926.github.io/) accepted to ACM [ICPP’24](https://icpp2024.org/). 
 - **[08/2022]** &nbsp;Join CUHK CSE as a PhD student.
