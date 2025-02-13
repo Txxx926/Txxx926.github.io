@@ -36,4 +36,5 @@ I am now a PhD candidate @[CUHK CSE](https://www.cse.cuhk.edu.hk/), supervised b
 {% include_relative _includes/teaching.md %}
 
 
-[![Flag Counter](https://s05.flagcounter.com/count/OELr/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/)](https://info.flagcounter.com/OELr)
+
+<a href="https://info.flagcounter.com/OELr"><img src="https://s05.flagcounter.com/count/OELr/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
