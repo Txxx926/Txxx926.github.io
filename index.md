@@ -17,7 +17,7 @@ I am now a PhD candidate @[CUHK CSE](https://www.cse.cuhk.edu.hk/), supervised b
 
 
 ## News
-- **[01/2025]** &nbsp;[Teola](https://arxiv.org/abs/2407.00326) accepted to ACM [ASPLOS’25](https://www.asplos-conference.org/asplos2025/).
+- **[01/2025]** &nbsp;[Ayo](https://dl.acm.org/doi/10.1145/3676641.3716278) accepted to ACM [ASPLOS’25](https://www.asplos-conference.org/asplos2025/).
 - **[06/2024]** &nbsp;[Arlo](https://txxx926.github.io/) accepted to ACM [ICPP’24](https://icpp2024.org/). 
 - **[08/2022]** &nbsp;Join CUHK CSE as a PhD student.
 
