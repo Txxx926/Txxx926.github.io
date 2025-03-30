@@ -4,10 +4,11 @@ main:
     conference: "ArXiv Preprint, 2025."
     pdf: https://arxiv.org/pdf/2502.07590
     
-  - title: "Teola: Towards End-to-End Optimization of LLM-based Applications"
+  - title: "Towards End-to-End Optimization of LLM-based Applications with Ayo"
     authors: "<strong>Xin Tan</strong>, Yimin Jiang, Yitao Yang, Hong Xu"
     conference: "ACM International Conference on Architectural Support for Programming Languages and Operating Systems  <strong>(ASPLOS)</strong>, 2025."
-    pdf: https://arxiv.org/pdf/2407.00326
+    pdf: https://dl.acm.org/doi/10.1145/3676641.3716278
+    arxiv: https://arxiv.org/pdf/2407.00326
     
   - title: "Arlo: Serving Transformer-based Language Models with Dynamic Input Lengths"
     authors: "<strong>Xin Tan</strong>, Jiamin Li, Yitao Yang, Jingzong Li, Hong Xu"
