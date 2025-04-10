@@ -12,13 +12,9 @@ I am now a PhD candidate @[CUHK CSE](https://www.cse.cuhk.edu.hk/), supervised b
 - **<autocolor>ML Inference:</autocolor>** Design highly effective and scalable systems capable of efficiently serving a large volume of requests.
 - **<autocolor>Distributed Training:</autocolor>** Develop and optimize strategies for efficient training of large models at scale.
 
-
-  Currently, I am focusing my research on **<autocolor>accelerating large-scale training for diffusion-based video generation</autocolor>**.
-
-
 ## News
 - **[01/2025]** &nbsp;[Ayo](https://dl.acm.org/doi/10.1145/3676641.3716278) accepted to ACM [ASPLOS’25](https://www.asplos-conference.org/asplos2025/).
-- **[06/2024]** &nbsp;[Arlo](https://txxx926.github.io/) accepted to ACM [ICPP’24](https://icpp2024.org/). 
+- **[06/2024]** &nbsp;[Arlo](https://dl.acm.org/doi/10.1145/3673038.3673124) accepted to ACM [ICPP’24](https://icpp2024.org/). 
 - **[08/2022]** &nbsp;Join CUHK CSE as a PhD student.
 
 
