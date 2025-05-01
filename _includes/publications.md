@@ -12,7 +12,7 @@
 
   <div class="col-sm-2 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     {% if link.image %} 
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
+    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width:100%;height:40%">
     {% endif %}
     {% if link.conference_short %} 
     <abbr class="badge" style="background-color: #7b4bb0">{{ link.conference_short }}</abbr>
