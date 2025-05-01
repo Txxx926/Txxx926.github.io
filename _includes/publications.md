@@ -9,14 +9,15 @@
 
 <div class="pub-row">
 
-  <div class="col-sm-2 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    {% if link.image %} 
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width: 100px; height: 70px; object-fit: cover; border-radius: 4px;">
-    {% endif %}
-    {% if link.conference_short %} 
-    <abbr class="badge" style="background-color: #7b4bb0;">{{ link.conference_short }}</abbr>
-    {% endif %}
-  </div>
+  <div class="col-sm-2 abbr" style="position: relative; padding-right: 15px; padding-left: 15px; min-width: 120px;">
+  {% if link.image %} 
+  <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width: 120px; height: 90px; object-fit: cover; border-radius: 6px; border: 1px 
+   solid #ccc;">
+  {% endif %}
+  {% if link.conference_short %} 
+  <abbr class="badge" style="background-color: #7b4bb0; position: absolute; top: 5px; left: 5px; font-size: 12px; padding: 3px 6px;">{{ link.conference_short }}</abbr>
+  {% endif %}
+</div>
 
   <div class="col-sm-11" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
