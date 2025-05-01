@@ -14,7 +14,7 @@
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
     {% endif %}
     {% if link.conference_short %} 
-    <abbr class="badge">{{ link.conference_short }}</abbr>
+    <abbr class="badge" style="color: #57068c;">{{ link.conference_short }}</abbr>
     {% endif %}
   </div>
 
