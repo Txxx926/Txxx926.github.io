@@ -10,6 +10,8 @@ main:
     pdf: https://dl.acm.org/doi/10.1145/3676641.3716278
     arxiv: https://arxiv.org/pdf/2407.00326
     code: https://github.com/NetX-lab/Ayo
+    image: ./assets/img/ayo.png
+    conference_short: ASPLOS'25
     
   - title: "Arlo: Serving Transformer-based Language Models with Dynamic Input Lengths"
     authors: "<strong>Xin Tan</strong>, Jiamin Li, Yitao Yang, Jingzong Li, Hong Xu"
