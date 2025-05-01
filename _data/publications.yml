@@ -3,6 +3,8 @@ main:
     authors: "<strong>Xin Tan</strong>, Yuetao Chen, Yimin Jiang, Xing Chen, Kun Yan, Nan Duan, Yibo Zhu, Daxin Jiang, Hong Xu"
     conference: "ArXiv Preprint, 2025."
     pdf: https://arxiv.org/pdf/2502.07590
+    image: ./assets/img/dsv.png
+    conference_short: Arxiv'25
     
   - title: "Towards End-to-End Optimization of LLM-based Applications with Ayo"
     authors: "<strong>Xin Tan</strong>, Yimin Jiang, Yitao Yang, Hong Xu"
@@ -17,6 +19,8 @@ main:
     authors: "<strong>Xin Tan</strong>, Jiamin Li, Yitao Yang, Jingzong Li, Hong Xu"
     conference: "ACM International Conference on Parallel Processing <strong>(ICPP)</strong>, 2024."
     pdf: https://dl.acm.org/doi/pdf/10.1145/3673038.3673124
+    image: ./assets/img/arlo.png
+    conference_short: ICPP'24
    
     
   
