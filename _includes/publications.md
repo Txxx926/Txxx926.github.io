@@ -11,7 +11,7 @@
 
   <div class="col-sm-2 abbr" style="position: relative; padding-right: 15px; padding-left: 15px; min-width: 120px;">
   {% if link.image %} 
-  <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width: 120px; height: 90px; object-fit: cover; border-radius: 6px; border: 1px 
+  <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width: 140px; height: 100px; object-fit: cover; border-radius: 6px; border: 1px 
    solid #ccc;">
   {% endif %}
   {% if link.conference_short %} 
