@@ -10,7 +10,7 @@
 <h4 style="margin:0 10px 0;">Artifact Evaluation Committee</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><autocolor>USENIX OSDI/ATC 2025, 2024</autocolor></a></li>
+  <li><autocolor>USENIX OSDI/ATC 2025, 2024</autocolor></li>
   <li><autocolor>USENIX FAST 2025</autocolor></li> 
   <li><autocolor>ACM CoNEXT 2025</autocolor></li> 
   <li><autocolor>ACM EuroSys 2025 Spring/Fall</autocolor></li>
