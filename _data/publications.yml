@@ -1,10 +1,10 @@
 main:
   - title: "DSV: Exploiting Dynamic Sparsity to Accelerate Large-Scale Video DiT Training"
     authors: "<strong>Xin Tan</strong>, Yuetao Chen, Yimin Jiang, Xing Chen, Kun Yan, Nan Duan, Yibo Zhu, Daxin Jiang, Hong Xu"
-    conference: "ArXiv Preprint, 2025."
-    pdf: https://arxiv.org/pdf/2502.07590
+    conference: "ACM International Conference on Architectural Support for Programming Languages and Operating Systems  <strong>(ASPLOS)</strong>, 2026."
+    arxiv: https://arxiv.org/pdf/2502.07590
     image: ./assets/img/dsv.png
-    conference_short: Arxiv'25
+    conference_short: ASPLOS'26
     
   - title: "Towards End-to-End Optimization of LLM-based Applications with Ayo"
     authors: "<strong>Xin Tan</strong>, Yimin Jiang, Yitao Yang, Hong Xu"
