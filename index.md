@@ -7,6 +7,10 @@ layout: homepage
 I am now a PhD candidate @[CUHK CSE](https://www.cse.cuhk.edu.hk/), supervised by [Prof. Henry Xu](https://henryhxu.github.io/). Prior to this, I got my B.E from @[NWPU CS](https://www.nwpu.edu.cn/) in July, 2022.  
 I was born in [Yangzhou](https://en.wikipedia.org/wiki/Yangzhou), a historic and picturesque city in Jiangsu Province, China.
 
+<span style="color:#e67e22; font-weight:bold;">
+UPDATE: I will be on the job market in 2026. Please feel free to contact me!
+</span>
+
 ## Research Interests
   I am broadly interested in system design for Machine Learning (**<autocolor>MLSys</autocolor>**), including the following topics:
 - **<autocolor>Resource Scheduling:</autocolor>** Maximize the allocation and utilization of available resources to accomodate workloads in the cluster.
