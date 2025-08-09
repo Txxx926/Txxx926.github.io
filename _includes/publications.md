@@ -48,7 +48,7 @@
       {% endif %}
 
         <span style="margin-left:12px; vertical-align:middle; position:relative; top:-3px;">
-  {% if link.artifact_available %}
+  {% if link.available %}
     <img src="./assets/img/artifacts_available.png" alt="Artifact Available" title="Artifact Available"
          style="height:22px; margin-right:1px; vertical-align:middle;">
   {% endif %}
@@ -59,8 +59,8 @@
   {% if link.reproduced %}
     <img src="./assets/img/results_reproduced_v1_1.png" alt="Artifact Reproduced" title="Reproduced"
          style="height:22px; vertical-align:middle;">
-    <span style="color:#27ae60; font-size:15px; font-weight:bold; margin-left:4px;">
-      Artifact Available, Functional, Reproduced
+    <span style="color:#27ae60; font-size:16px; font-weight:bold; margin-left:4px;">
+      (Artifact Available, Functional, Reproduced)
     </span>
   {% endif %}
 </span>
