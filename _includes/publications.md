@@ -56,6 +56,9 @@
   {% endif %}
   {% if link.reproduced %}
     <img src="./assets/img/results_reproduced_v1_1.png" alt="Artifact Reproduced" title="Reproduced" style="height:22px; vertical-align:middle;">
+    <span style="color:#27ae60; font-size:14px; font-weight:bold; margin-left:8px;">
+      (Artifact Available, Functional, Reproduced)
+    </span>
   {% endif %}
 </span>
   
