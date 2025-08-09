@@ -48,7 +48,7 @@
       {% endif %}
 
         <span style="margin-left:12px; vertical-align:middle; position:relative; top:-3px;">
-  {% if link.artifact_available %}
+  {% if link.available %}
     <img src="./assets/img/artifacts_available.png" alt="Artifact Available" title="Artifact Available" style="height:22px; margin-right:4px; vertical-align:middle;">
   {% endif %}
   {% if link.functional %}
