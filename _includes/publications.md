@@ -46,6 +46,20 @@
       {% if link.others %} 
       {{ link.others }}
       {% endif %}
+
+        <span style="margin-left:12px; vertical-align:middle;">
+    {% if link.artifact_available %}
+      <img src="./assets/img/artifact_available.png" alt="Artifact Available" title="Artifact Available" style="height:16px; margin-right:3px; vertical-align:middle;">
+    {% endif %}
+    {% if link.functional %}
+      <img src="./assets/img/artifacts_evaluated_functional_v1_1.png" alt="Artifact Functional" title="Functional" style="height:16px; margin-right:3px; vertical-align:middle;">
+    {% endif %}
+    {% if link.reproduced %}
+      <img src="./assets/img/results_reproduced_v1_1.png" alt="Artifact Reproduced" title="Reproduced" style="height:16px; vertical-align:middle;">
+    {% endif %}
+  </span>
+  
+      
     </div>
   </div>
 </div>
