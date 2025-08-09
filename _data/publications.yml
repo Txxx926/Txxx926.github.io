@@ -5,6 +5,9 @@ main:
     arxiv: https://arxiv.org/pdf/2502.07590
     image: ./assets/img/dsv.png
     conference_short: ASPLOS'26
+    available: true
+    functional: true
+    reproduced: true
     
   - title: "Towards End-to-End Optimization of LLM-based Applications with Ayo"
     authors: "<strong>Xin Tan</strong>, Yimin Jiang, Yitao Yang, Hong Xu"
