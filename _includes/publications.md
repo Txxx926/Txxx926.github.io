@@ -46,24 +46,24 @@
       {% if link.others %} 
       {{ link.others }}
       {% endif %}
-
-        <span style="margin-left:12px; vertical-align:middle; position:relative; top:-3px;">
-  {% if link.available %}
-    <img src="./assets/img/artifacts_available.png" alt="Artifact Available" title="Artifact Available"
-         style="height:22px; margin-right:1px; vertical-align:middle;">
-  {% endif %}
-  {% if link.functional %}
-    <img src="./assets/img/artifacts_evaluated_functional_v1_1.png" alt="Artifact Functional" title="Functional"
-         style="height:22px; margin-right:1px; vertical-align:middle;">
-  {% endif %}
-  {% if link.reproduced %}
+      
+    {% if link.reproduced %}
+  <div style="margin-top:8px; display:flex; align-items:center;">
+    {% if link.available %}
+      <img src="./assets/img/artifacts_available.png" alt="Artifact Available" title="Artifact Available"
+           style="height:22px; margin-right:1px;">
+    {% endif %}
+    {% if link.functional %}
+      <img src="./assets/img/artifacts_evaluated_functional_v1_1.png" alt="Artifact Functional" title="Functional"
+           style="height:22px; margin-right:1px;">
+    {% endif %}
     <img src="./assets/img/results_reproduced_v1_1.png" alt="Artifact Reproduced" title="Reproduced"
-         style="height:22px; vertical-align:middle;">
+         style="height:22px;">
     <span style="color:#27ae60; font-size:16px; font-weight:bold; margin-left:4px;">
       (Artifact Available, Functional, Reproduced)
     </span>
-  {% endif %}
-</span>
+  </div>
+    {% endif %}
   
       
     </div>
