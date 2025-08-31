@@ -1,8 +1,8 @@
 main:
   - title: "DSV: Exploiting Dynamic Sparsity to Accelerate Large-Scale Video DiT Training"
-    authors: "<strong>Xin Tan</strong>, Yuetao Chen, Yimin Jiang, Xing Chen, Kun Yan, Nan Duan, Yibo Zhu, Daxin Jiang, Hong Xu"
+    authors: "<u><strong>Xin Tan</strong></u>, Yuetao Chen, Yimin Jiang, Xing Chen, Kun Yan, Nan Duan, Yibo Zhu, Daxin Jiang, Hong Xu"
     conference: "ACM International Conference on Architectural Support for Programming Languages and Operating Systems  <strong>(ASPLOS)</strong>, 2026."
-    arxiv: https://arxiv.org/pdf/2502.07590
+    arxiv: https://arxiv.org/abs/2502.07590
     image: ./assets/img/dsv.png
     conference_short: ASPLOS'26
     available: true
@@ -10,16 +10,23 @@ main:
     reproduced: true
     
   - title: "Towards End-to-End Optimization of LLM-based Applications with Ayo"
-    authors: "<strong>Xin Tan</strong>, Yimin Jiang, Yitao Yang, Hong Xu"
+    authors: "<u><strong>Xin Tan</strong></u>, Yimin Jiang, Yitao Yang, Hong Xu"
     conference: "ACM International Conference on Architectural Support for Programming Languages and Operating Systems  <strong>(ASPLOS)</strong>, 2025."
     pdf: https://dl.acm.org/doi/10.1145/3676641.3716278
-    arxiv: https://arxiv.org/pdf/2407.00326
+    arxiv: https://arxiv.org/abs/2407.00326
     code: https://github.com/NetX-lab/Ayo
     image: ./assets/img/ayo.png
     conference_short: ASPLOS'25
+
+  - title: "Frontier: Simulating the Next Generation of LLM Inference Systems"
+    authors: "Yicheng Feng, <u><strong>Xin Tan</strong></u>, Kin Hang Sew, Yimin Jiang, Yibo Zhu, Hong Xu"
+    conference: "SOSP Workshop on Practical Adoption Challenges of ML for Systems (<strong>PACMI</strong>), 2025"
+    arxiv: https://www.arxiv.org/abs/2508.03148
+    image: ./assets/img/froniter.png
+    conference_short: SOSP PACMI'25
     
   - title: "Arlo: Serving Transformer-based Language Models with Dynamic Input Lengths"
-    authors: "<strong>Xin Tan</strong>, Jiamin Li, Yitao Yang, Jingzong Li, Hong Xu"
+    authors: "<u><strong>Xin Tan</strong></u>, Jiamin Li, Yitao Yang, Jingzong Li, Hong Xu"
     conference: "ACM International Conference on Parallel Processing <strong>(ICPP)</strong>, 2024."
     pdf: https://dl.acm.org/doi/pdf/10.1145/3673038.3673124
     image: ./assets/img/arlo.png
