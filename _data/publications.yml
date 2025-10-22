@@ -20,6 +20,13 @@ main:
     conference_short: ASPLOS'25
     type: conference
 
+  - title: "RFabric: A Reconfigurable Network for the Rhythms of Disaggregated RL"
+    authors: "<u><strong>Xin Tan</strong></u>, Yicheng Feng, Yu Zhou, Yimin Jiang, Yibo Zhu, Hong Xu"
+    conference: "The 1st Frontier AI Systems Workshop (<strong>FAISys</strong>), 2025"
+    image: ./assets/img/faisys.png
+    conference_short: FAISys'25
+    type: workshop
+
   - title: "Frontier: Simulating the Next Generation of LLM Inference Systems"
     authors: "Yicheng Feng, <u><strong>Xin Tan</strong></u>, Kin Hang Sew, Yimin Jiang, Yibo Zhu, Hong Xu"
     conference: "SOSP Workshop on Practical Adoption Challenges of ML for Systems (<strong>PACMI</strong>), 2025"
