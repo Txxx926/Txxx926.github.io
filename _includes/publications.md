@@ -1,7 +1,7 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
 <!-- Conference Papers -->
-<h3 style="margin-top: 20px;">Conference Papers</h3>
+<h3 style="margin-top: 25px; text-decoration: underline;">Conference Papers</h3>
 <div class="publications">
   <ol class="bibliography">
     {% for link in site.data.publications.main %}
@@ -68,7 +68,7 @@
 </div>
 
 <!-- Workshop Papers -->
-<h3 style="margin-top: 20px;">Workshop Papers</h3>
+<h3 style="margin-top: 25px; text-decoration: underline;">Workshop Papers</h3>
 <div class="publications">
   <ol class="bibliography">
     {% for link in site.data.publications.main %}
