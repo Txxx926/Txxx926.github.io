@@ -23,7 +23,7 @@ main:
   - title: "RFabric: A Reconfigurable Network for the Rhythms of Disaggregated RL"
     authors: "<u><strong>Xin Tan</strong></u>, Yicheng Feng, Yu Zhou, Yimin Jiang, Yibo Zhu, Hong Xu"
     conference: "The 1st Frontier AI Systems Workshop (<strong>FAISys</strong>), 2025"
-    image: ./assets/img/faisys.png
+    image: ./assets/img/rfabric.png
     conference_short: FAISys'25
     type: workshop
 
