@@ -8,6 +8,7 @@ main:
     available: true
     functional: true
     reproduced: true
+    type: conference
     
   - title: "Towards End-to-End Optimization of LLM-based Applications with Ayo"
     authors: "<u><strong>Xin Tan</strong></u>, Yimin Jiang, Yitao Yang, Hong Xu"
@@ -17,6 +18,7 @@ main:
     code: https://github.com/NetX-lab/Ayo
     image: ./assets/img/ayo.png
     conference_short: ASPLOS'25
+    type: conference
 
   - title: "Frontier: Simulating the Next Generation of LLM Inference Systems"
     authors: "Yicheng Feng, <u><strong>Xin Tan</strong></u>, Kin Hang Sew, Yimin Jiang, Yibo Zhu, Hong Xu"
@@ -24,6 +26,7 @@ main:
     arxiv: https://www.arxiv.org/abs/2508.03148
     image: ./assets/img/froniter.png
     conference_short: SOSP PACMI'25
+    type: workshop
     
   - title: "Arlo: Serving Transformer-based Language Models with Dynamic Input Lengths"
     authors: "<u><strong>Xin Tan</strong></u>, Jiamin Li, Yitao Yang, Jingzong Li, Hong Xu"
@@ -31,6 +34,7 @@ main:
     pdf: https://dl.acm.org/doi/pdf/10.1145/3673038.3673124
     image: ./assets/img/arlo.png
     conference_short: ICPP'24
+    type: conference
    
     
   
