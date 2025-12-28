@@ -1,7 +1,6 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
 <style>
-  /* 让 Publications 这一块更宽 */
   .publications{
     max-width: 1200px;
     width: 100%;
@@ -9,7 +8,6 @@
     margin-right: auto;
   }
 
-  /* 可选：减少 item 内左右 padding，让内容更“松” */
   .publications .col-sm-12{
     padding-left: 10px !important;
     padding-right: 10px !important;
@@ -19,14 +17,13 @@
     margin-bottom: 8px;
   }
 
-  .publications h3.pub-section {
-  font-size: 1.35rem;     
-  font-weight: normal;    
-  margin: 0.67em 0;       
-  line-height: 1.2;
+.publications h3.pub-section{
+  font-size: 1.35rem;
+  font-weight: normal;
 
-  display: inline-block;   
-  padding-bottom: 3px;
+  display: inline-block;
+  line-height: 1.05;       
+  padding-bottom: 0;       
   border-bottom: 2px solid #333;
 }
 
