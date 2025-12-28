@@ -1,4 +1,14 @@
 main:
+
+
+  - title: "MemShare: Memory Efficient Inference for Large Reasoning Models through KV Cache Reuse"
+    authors: "Kaiwen Chen, <u><strong>Xin Tan</strong></u>, Minchen Yu, Hong Xu"
+    conference: "ArXiv preprint, 2025."
+    arxiv: https://arxiv.org/abs/2507.21433?
+    conference_short: Arxiv'25
+    type: conference
+    preprint: true
+
   - title: "DSV: Exploiting Dynamic Sparsity to Accelerate Large-Scale Video DiT Training"
     authors: "<u><strong>Xin Tan</strong></u>, Yuetao Chen, Yimin Jiang, Xing Chen, Kun Yan, Nan Duan, Yibo Zhu, Daxin Jiang, Hong Xu"
     conference: "ACM International Conference on Architectural Support for Programming Languages and Operating Systems  <strong>(ASPLOS)</strong>, 2026."
@@ -43,6 +53,8 @@ main:
     image: ./assets/img/arlo.png
     conference_short: ICPP'24
     type: conference
+
+
    
     
   
