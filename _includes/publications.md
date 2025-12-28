@@ -1,23 +1,21 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
 <style>
-  /* 控制相邻 publication 的竖直间距（更小） */
   .publications ol.bibliography > li {
     margin-bottom: 8px;
   }
 
-  /* 分区标题：字体稍大 + 下划线 + 间距 */
   .publications h3.pub-section {
-    font-size: 1.35rem;
-    font-weight: 600;
-    margin: 28px 0 12px;
-    line-height: 1.2;
+  font-size: 1.35rem;     
+  font-weight: normal;    
+  margin: 0.67em 0;       
+  line-height: 1.2;
 
-    /* 下划线（更可控） */
-    display: inline-block;
-    padding-bottom: 4px;
-    border-bottom: 2px solid #333; /* 可改颜色/粗细 */
-  }
+  display: inline-block;   
+  padding-bottom: 3px;
+  border-bottom: 2px solid #333;
+}
+  
 </style>
 
 <div class="publications">
