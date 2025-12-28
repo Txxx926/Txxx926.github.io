@@ -1,8 +1,28 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
+<style>
+  /* 控制相邻 publication 的竖直间距（更小） */
+  .publications ol.bibliography > li {
+    margin-bottom: 8px;
+  }
+
+  /* 分区标题：字体稍大 + 下划线 + 间距 */
+  .publications h3.pub-section {
+    font-size: 1.35rem;
+    font-weight: 600;
+    margin: 28px 0 12px;
+    line-height: 1.2;
+
+    /* 下划线（更可控） */
+    display: inline-block;
+    padding-bottom: 4px;
+    border-bottom: 2px solid #333; /* 可改颜色/粗细 */
+  }
+</style>
+
 <div class="publications">
   <!-- ===================== Preprints ===================== -->
-  <h3 id="preprints" style="margin: 18px 0px 6px;">Preprints</h3>
+  <h3 id="preprints" class="pub-section">Preprints</h3>
   <ol class="bibliography">
     {% for link in site.data.publications.main %}
       {% if link.preprint %}
@@ -37,12 +57,15 @@
                 {% if link.reproduced %}
                   <div style="margin-top:8px; display:flex; align-items:center;">
                     {% if link.available %}
-                      <img src="./assets/img/artifacts_available.png" alt="Artifact Available" title="Artifact Available" style="height:22px; margin-right:1px;">
+                      <img src="./assets/img/artifacts_available.png" alt="Artifact Available" title="Artifact Available"
+                           style="height:22px; margin-right:1px;">
                     {% endif %}
                     {% if link.functional %}
-                      <img src="./assets/img/artifacts_evaluated_functional_v1_1.png" alt="Artifact Functional" title="Functional" style="height:22px; margin-right:1px;">
+                      <img src="./assets/img/artifacts_evaluated_functional_v1_1.png" alt="Artifact Functional" title="Functional"
+                           style="height:22px; margin-right:1px;">
                     {% endif %}
-                    <img src="./assets/img/results_reproduced_v1_1.png" alt="Artifact Reproduced" title="Reproduced" style="height:22px;">
+                    <img src="./assets/img/results_reproduced_v1_1.png" alt="Artifact Reproduced" title="Reproduced"
+                         style="height:22px;">
                     <span style="color:#27ae60; font-size:16px; font-weight:bold; margin-left:4px;">
                       (Artifact Available, Functional, Reproduced)
                     </span>
@@ -52,16 +75,15 @@
             </div>
           </div>
         </li>
-        <br>
       {% endif %}
     {% endfor %}
   </ol>
 
   <!-- ============ Conference and Workshops ============ -->
-  <h3 id="conf-workshops" style="margin: 18px 0px 6px;">Conference and Workshops</h3>
+  <h3 id="conf-workshops" class="pub-section">Conference and Workshops</h3>
   <ol class="bibliography">
     {% for link in site.data.publications.main %}
-      {% unless link.preprint%}
+      {% unless link.preprint %}
         <li>
           <div class="pub-row">
 
@@ -93,12 +115,15 @@
                 {% if link.reproduced %}
                   <div style="margin-top:8px; display:flex; align-items:center;">
                     {% if link.available %}
-                      <img src="./assets/img/artifacts_available.png" alt="Artifact Available" title="Artifact Available" style="height:22px; margin-right:1px;">
+                      <img src="./assets/img/artifacts_available.png" alt="Artifact Available" title="Artifact Available"
+                           style="height:22px; margin-right:1px;">
                     {% endif %}
                     {% if link.functional %}
-                      <img src="./assets/img/artifacts_evaluated_functional_v1_1.png" alt="Artifact Functional" title="Functional" style="height:22px; margin-right:1px;">
+                      <img src="./assets/img/artifacts_evaluated_functional_v1_1.png" alt="Artifact Functional" title="Functional"
+                           style="height:22px; margin-right:1px;">
                     {% endif %}
-                    <img src="./assets/img/results_reproduced_v1_1.png" alt="Artifact Reproduced" title="Reproduced" style="height:22px;">
+                    <img src="./assets/img/results_reproduced_v1_1.png" alt="Artifact Reproduced" title="Reproduced"
+                         style="height:22px;">
                     <span style="color:#27ae60; font-size:16px; font-weight:bold; margin-left:4px;">
                       (Artifact Available, Functional, Reproduced)
                     </span>
@@ -108,7 +133,6 @@
             </div>
           </div>
         </li>
-        <br>
       {% endunless %}
     {% endfor %}
   </ol>
