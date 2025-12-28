@@ -1,6 +1,20 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
 <style>
+  /* 让 Publications 这一块更宽 */
+  .publications{
+    max-width: 1200px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  /* 可选：减少 item 内左右 padding，让内容更“松” */
+  .publications .col-sm-12{
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+  }
+  
   .publications ol.bibliography > li {
     margin-bottom: 8px;
   }
@@ -15,7 +29,7 @@
   padding-bottom: 3px;
   border-bottom: 2px solid #333;
 }
-  
+
 </style>
 
 <div class="publications">
