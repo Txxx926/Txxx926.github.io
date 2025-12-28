@@ -22,9 +22,11 @@
   font-weight: normal;
 
   display: inline-block;
-  line-height: 1.05;       
-  padding-bottom: 0;       
+  line-height: 1.05;
+  padding-bottom: 0;
   border-bottom: 2px solid #333;
+
+  margin: 0.67em 0 0.9em;  
 }
 
 </style>
