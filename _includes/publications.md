@@ -27,7 +27,7 @@
   line-height: 1.1;
 
   padding-bottom: 1px;
-  border-bottom: 2px solid #bdbdbd;  
+  border-bottom: 1.5px solid #bdbdbd;  
 
   margin-bottom: 0.9em;
 }
