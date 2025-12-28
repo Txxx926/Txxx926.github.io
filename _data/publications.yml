@@ -26,7 +26,7 @@ main:
     image: ./assets/img/rfabric.png
     conference_short: FAISys'25
     type: workshop
-    pdf: dropbox.com/scl/fo/oylca94tenkqrp3jb0syw/AGMkRE0OpPyCOsJGK6o-MsM?dl=0&e=1&preview=faisys25-final16.pdf&rlkey=0wage9ssu9mxelrmly2k2uefl
+    pdf: https://www.dropbox.com/scl/fo/oylca94tenkqrp3jb0syw/AGMkRE0OpPyCOsJGK6o-MsM?e=2&preview=faisys25-final16.pdf&rlkey=0wage9ssu9mxelrmly2k2uefl&dl=0
 
   - title: "Frontier: Simulating the Next Generation of LLM Inference Systems"
     authors: "Yicheng Feng, <u><strong>Xin Tan</strong></u>, Kin Hang Sew, Yimin Jiang, Yibo Zhu, Hong Xu"
