@@ -20,14 +20,14 @@
 
 .publications h3.pub-section{
   font-size: 1.35rem;
-  font-weight: 600;              /* 如果你坚持不加粗：改 normal */
+  font-weight: 600;
   color: #222;
 
   display: inline-block;
-  line-height: 1.15;
+  line-height: 1.1;
 
-  padding-bottom: 2px;
-  border-bottom: 1px solid #c9c9c9;  /* 细、浅 */
+  padding-bottom: 1px;
+  border-bottom: 2px solid #bdbdbd;  
 
   margin-bottom: 0.9em;
 }
