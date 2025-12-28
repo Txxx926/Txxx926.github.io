@@ -26,7 +26,8 @@
   padding-bottom: 0;
   border-bottom: 2px solid #333;
 
-  margin: 0.67em 0 0.9em;  
+  /* 只改下边距 */
+  margin-bottom: 0.9em;
 }
 
 </style>
