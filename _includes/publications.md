@@ -17,19 +17,21 @@
     margin-bottom: 8px;
   }
 
+
 .publications h3.pub-section{
   font-size: 1.35rem;
-  font-weight: normal;
+  font-weight: 600;              /* 如果你坚持不加粗：改 normal */
+  color: #222;
 
   display: inline-block;
-  line-height: 1.05;
-  padding-bottom: 0;
-  border-bottom: 2px solid #333;
+  line-height: 1.15;
 
-  /* 只改下边距 */
+  padding-bottom: 2px;
+  border-bottom: 1px solid #c9c9c9;  /* 细、浅 */
+
   margin-bottom: 0.9em;
 }
-
+  
 </style>
 
 <div class="publications">
