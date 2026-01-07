@@ -1,5 +1,11 @@
 main:
-
+  - title: "OrchestrRL: Dynamic Compute and Network Orchestration for Disaggregated RL"
+    authors: "<u><strong>Xin Tan</strong></u>, Yicheng Feng, Yu Zhou, Yimin Jiang, Yibo Zhu, Hong Xu"
+    conference: "ArXiv preprint, 2026."
+    arxiv: https://arxiv.org/abs/2601.01209
+    conference_short: Arxiv'26
+    type: conference
+    preprint: true
 
   - title: "MemShare: Memory Efficient Inference for Large Reasoning Models through KV Cache Reuse"
     authors: "Kaiwen Chen, <u><strong>Xin Tan</strong></u>, Minchen Yu, Hong Xu"
