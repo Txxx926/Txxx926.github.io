@@ -16,7 +16,7 @@
 <td>
 <p>Ph.D.:&nbsp;<strong>The Chinese University of Hong Kong.</strong></p>
 <ul style="list-style-type: circle;">
-<li>Period: 2022.8 - current</li>
+<li>Period: 2022.8 - 2026.6 (expected)</li>
 </ul>
 </td>
 </tr>
