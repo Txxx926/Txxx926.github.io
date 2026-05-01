@@ -46,7 +46,7 @@ main:
 
   - title: "FOCUS: DLLMs Know How to Tame Their Compute Bound"
     authors: "Kaihua Liang, <u><strong>Xin Tan</strong></u>, An Zhong, Hong Xu, Marco Canini"
-    conference: "ArXiv preprint, 2026."
+    conference: "Forty-third International Conference on Machine Learning (<strong>ICML</strong>), 2026"
     arxiv: https://arxiv.org/abs/2601.23278
     conference_short: ICML'26
     type: conference
@@ -54,7 +54,7 @@ main:
 
   - title: "MemShare: Memory Efficient Inference for Large Reasoning Models through KV Cache Reuse"
     authors: "Kaiwen Chen, <u><strong>Xin Tan</strong></u>, Minchen Yu, Hong Xu"
-    conference: "ArXiv preprint, 2025."
+    conference: "IEEE/ACM International Symposium on Quality of Service (<strong>IWQoS</strong>), 2026"
     arxiv: https://arxiv.org/abs/2507.21433?
     conference_short: IWQoS'26
     type: conference
