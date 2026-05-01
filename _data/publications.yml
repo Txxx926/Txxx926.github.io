@@ -7,22 +7,6 @@ main:
     type: conference
     preprint: true
 
-  - title: "FOCUS: DLLMs Know How to Tame Their Compute Bound"
-    authors: "Kaihua Liang, <u><strong>Xin Tan</strong></u>, An Zhong, Hong Xu, Marco Canini"
-    conference: "ArXiv preprint, 2026."
-    arxiv: https://arxiv.org/abs/2601.23278
-    conference_short: Arxiv'26
-    type: conference
-    preprint: true
-
-  - title: "MemShare: Memory Efficient Inference for Large Reasoning Models through KV Cache Reuse"
-    authors: "Kaiwen Chen, <u><strong>Xin Tan</strong></u>, Minchen Yu, Hong Xu"
-    conference: "ArXiv preprint, 2025."
-    arxiv: https://arxiv.org/abs/2507.21433?
-    conference_short: Arxiv'25
-    type: conference
-    preprint: true
-
   - title: "DSV: Exploiting Dynamic Sparsity to Accelerate Large-Scale Video DiT Training"
     authors: "<u><strong>Xin Tan</strong></u>, Yuetao Chen, Yimin Jiang, Xing Chen, Kun Yan, Nan Duan, Yibo Zhu, Daxin Jiang, Hong Xu"
     conference: "ACM International Conference on Architectural Support for Programming Languages and Operating Systems  <strong>(ASPLOS)</strong>, 2026."
@@ -52,6 +36,30 @@ main:
     type: workshop
     pdf: https://www.dropbox.com/scl/fo/oylca94tenkqrp3jb0syw/AGMkRE0OpPyCOsJGK6o-MsM?e=2&preview=faisys25-final16.pdf&rlkey=0wage9ssu9mxelrmly2k2uefl&dl=0
 
+  - title: "Arlo: Serving Transformer-based Language Models with Dynamic Input Lengths"
+    authors: "<u><strong>Xin Tan</strong></u>, Jiamin Li, Yitao Yang, Jingzong Li, Hong Xu"
+    conference: "ACM International Conference on Parallel Processing <strong>(ICPP)</strong>, 2024."
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3673038.3673124
+    image: ./assets/img/arlo.png
+    conference_short: ICPP'24
+    type: conference
+
+  - title: "FOCUS: DLLMs Know How to Tame Their Compute Bound"
+    authors: "Kaihua Liang, <u><strong>Xin Tan</strong></u>, An Zhong, Hong Xu, Marco Canini"
+    conference: "ArXiv preprint, 2026."
+    arxiv: https://arxiv.org/abs/2601.23278
+    conference_short: ICML'26
+    type: conference
+
+
+  - title: "MemShare: Memory Efficient Inference for Large Reasoning Models through KV Cache Reuse"
+    authors: "Kaiwen Chen, <u><strong>Xin Tan</strong></u>, Minchen Yu, Hong Xu"
+    conference: "ArXiv preprint, 2025."
+    arxiv: https://arxiv.org/abs/2507.21433?
+    conference_short: IWQoS'26
+    type: conference
+
+
   - title: "Frontier: Simulating the Next Generation of LLM Inference Systems"
     authors: "Yicheng Feng, <u><strong>Xin Tan</strong></u>, Kin Hang Sew, Yimin Jiang, Yibo Zhu, Hong Xu"
     conference: "SOSP Workshop on Practical Adoption Challenges of ML for Systems (<strong>PACMI</strong>), 2025"
@@ -60,13 +68,6 @@ main:
     conference_short: SOSP PACMI'25
     type: workshop
     
-  - title: "Arlo: Serving Transformer-based Language Models with Dynamic Input Lengths"
-    authors: "<u><strong>Xin Tan</strong></u>, Jiamin Li, Yitao Yang, Jingzong Li, Hong Xu"
-    conference: "ACM International Conference on Parallel Processing <strong>(ICPP)</strong>, 2024."
-    pdf: https://dl.acm.org/doi/pdf/10.1145/3673038.3673124
-    image: ./assets/img/arlo.png
-    conference_short: ICPP'24
-    type: conference
 
 
    
