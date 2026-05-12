@@ -18,6 +18,7 @@ UPDATE: I will be on the job market in 2025 Fall. Please feel free to contact me
 - **<autocolor>Distributed Training:</autocolor>** Develop and optimize strategies for efficient training of large models at scale.
 
 ## News
+- **[05/2026]** &nbsp;[Silverstone](https://arxiv.org/abs/2601.01209) accepted to ACM [SIGCOMM’26](https://conferences.sigcomm.org/sigcomm/2026/).
 - **[06/2025]** &nbsp;[DSV](https://arxiv.org/abs/2502.07590) accepted to ACM [ASPLOS’26](https://www.asplos-conference.org/asplos2026/).
 - **[01/2025]** &nbsp;[Ayo](https://dl.acm.org/doi/10.1145/3676641.3716278) accepted to ACM [ASPLOS’25](https://www.asplos-conference.org/asplos2025/).
 - **[06/2024]** &nbsp;[Arlo](https://dl.acm.org/doi/10.1145/3673038.3673124) accepted to ACM [ICPP’24](https://icpp2024.org/). 
