@@ -12,10 +12,11 @@ UPDATE: I will be on the job market in 2025 Fall. Please feel free to contact me
 </span> -->
 
 ## Research Interests
-  I am broadly interested in system design for Machine Learning (**<autocolor>MLSys</autocolor>**), including the following topics:
-- **<autocolor>Resource Scheduling:</autocolor>** Maximize the allocation and utilization of available resources to accomodate workloads in the cluster.
-- **<autocolor>ML Inference:</autocolor>** Design highly effective and scalable systems capable of efficiently serving a large volume of requests.
-- **<autocolor>Distributed Training:</autocolor>** Develop and optimize strategies for efficient training of large models at scale.
+He is broadly interested in systems design for Machine Learning (**<autocolor>MLSys</autocolor>**) and has published in top-tier venues across systems, networking, and machine learning, including **<autocolor>SIGCOMM</autocolor>**, **<autocolor>ASPLOS</autocolor>**, and **<autocolor>ICML</autocolor>**. His research mainly focuses on the following topics:
+
+- **<autocolor>Resource Scheduling</autocolor>:** Maximizing resource allocation and utilization to efficiently accommodate workloads in clusters.
+- **<autocolor>ML Inference</autocolor>:** Designing scalable and high-performance systems for serving large volumes of inference requests efficiently.
+- **<autocolor>Distributed Training</autocolor>:** Developing and optimizing strategies for efficient large-scale model training.
 
 ## News
 - **[05/2026]** &nbsp;[Silverstone](https://arxiv.org/abs/2601.01209) accepted to ACM [SIGCOMM’26](https://conferences.sigcomm.org/sigcomm/2026/).
