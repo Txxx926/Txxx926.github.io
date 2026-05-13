@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 TAN, Xin (谭昕) is currently a PhD Candidate @[CUHK CSE](https://www.cse.cuhk.edu.hk/), supervised by [Prof. Henry Xu](https://henryhxu.github.io/). Prior to this, I got my B.E from @[NWPU CS](https://www.nwpu.edu.cn/) in July, 2022.  
-I was born in [Yangzhou](https://en.wikipedia.org/wiki/Yangzhou), a historic and picturesque city in Jiangsu Province, China.
+He was born in [Yangzhou](https://en.wikipedia.org/wiki/Yangzhou), a historic and picturesque city in Jiangsu Province, China.
 
 <!-- <span style="color:#e67e22; font-weight:bold; font-size:1.25em;">
 UPDATE: I will be on the job market in 2025 Fall. Please feel free to contact me!
