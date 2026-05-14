@@ -1,7 +1,7 @@
 main:
   - title: "Dynamic Compute and Network Orchestration for Disaggregated RL"
     authors: "<u><strong>Xin Tan</strong></u>, Yicheng Feng, Yu Zhou, Yimin Jiang, Yibo Zhu, Hong Xu"
-    conference: "ACM Special Interest Group on Data Communication <strong>(SIGCOMM)</strong>, 2026."
+    conference: "ACM Special Interest Group on Data Communication <strong>(SIGCOMM)</strong>, Research Track, 2026."
     arxiv: https://arxiv.org/abs/2601.01209
     conference_short: SIGCOMM'26
     type: conference
