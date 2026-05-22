@@ -1,4 +1,11 @@
 main:
+  - title: "Frontier: Towards Comprehensive and Accurate LLM Inference Simulation"
+    authors: "Yicheng Feng, <u><strong>Xin Tan</strong></u>, Yangtao Deng, Yimin Jiang, Yibo Zhu, Hong Xu"
+    conference: "Arxiv preprint, 2026."
+    arxiv: https://arxiv.org/abs/2605.21312
+    conference_short: Arxiv'26
+    type: preprint
+    
   - title: "Dynamic Compute and Network Orchestration for Disaggregated RL"
     authors: "<u><strong>Xin Tan</strong></u>, Yicheng Feng, Yu Zhou, Yimin Jiang, Yibo Zhu, Hong Xu"
     conference: "ACM Special Interest Group on Data Communication <strong>(SIGCOMM)</strong>, Research Track, 2026."
