@@ -7,7 +7,7 @@
 <p>B.E:&nbsp;<strong>Northwestern Polytechnical University.</strong></p>
 <ul style="list-style-type: circle;">
 <li>Period: 2018.9 - 2022.6</li>
-<li>Rank: <strong>1</strong>/247</li>
+<li>GPA Rank: <strong>1</strong>/247</li>
 </ul>
 </td>
 </tr>
