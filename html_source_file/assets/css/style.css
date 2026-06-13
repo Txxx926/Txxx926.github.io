@@ -11,6 +11,10 @@ body { background-color: #fff; padding: 0px; font: 16.0px/1.5 Crimson Pro, serif
 
 .social-icons a:hover { background-color: white; color: black; transform: scale(1.2); }
 
+.social-icons a.cv-link { line-height: 2.4rem; position: relative; vertical-align: middle; }
+
+.cv-link .cv-language { background: #fff; border: 1px solid currentColor; border-radius: 2px; bottom: 0.15rem; color: #043361; font-family: "Ubuntu Mono", monospace; font-size: 0.48rem; font-weight: 700; line-height: 1; padding: 0 0.08rem; position: absolute; right: 0.12rem; }
+
 /*
 .social-icons a:after { content: ''; display: block; margin: 0px; height: 1px; width: 0px; background: transparent; transition: width .5s ease, background-color .5s ease; } .social-icons a:hover:after { width: 100%; background: #337ab7; } */
 @media (prefers-color-scheme: dark) { .social-icons a:last-child { margin-right: 0; }
