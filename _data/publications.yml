@@ -1,10 +1,19 @@
 main:
+  - title: "Libra: Efficient Resource Management for Agentic RL Post-Training"
+    authors: "Kaiwen Chen, <u><strong>Xin Tan</strong></u>, Jingzong Li, Hong Xu"
+    conference: "Arxiv preprint, 2026."
+    arxiv: https://arxiv.org/pdf/2606.03077
+    conference_short: Arxiv'26
+    type: conference
+    preprint: true
+    
   - title: "Frontier: Towards Comprehensive and Accurate LLM Inference Simulation"
     authors: "Yicheng Feng, <u><strong>Xin Tan</strong></u>, Yangtao Deng, Yimin Jiang, Yibo Zhu, Hong Xu"
     conference: "Arxiv preprint, 2026."
     arxiv: https://arxiv.org/abs/2605.21312
     conference_short: Arxiv'26
     type: conference
+    code: https://github.com/NetX-lab/Frontier
     preprint: true
     
   - title: "Dynamic Compute and Network Orchestration for Disaggregated RL"
@@ -57,6 +66,7 @@ main:
     conference: "Forty-third International Conference on Machine Learning (<strong>ICML</strong>), 2026"
     arxiv: https://arxiv.org/abs/2601.23278
     conference_short: ICML'26
+    code: https://github.com/sands-lab/FOCUS
     type: conference
 
 
