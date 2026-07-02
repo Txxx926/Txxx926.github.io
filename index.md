@@ -19,6 +19,7 @@ He is broadly interested in systems design for Machine Learning (**<autocolor>ML
 - **<autocolor>Distributed Training</autocolor>:** Developing and optimizing strategies for efficient large-scale model training.
 
 ## News
+- **[06/2026]** Successfully passed my PhD defense!
 - **[05/2026]** &nbsp;[Silverstone](https://arxiv.org/abs/2601.01209) accepted to ACM [SIGCOMM’26](https://conferences.sigcomm.org/sigcomm/2026/).
 - **[06/2025]** &nbsp;[DSV](https://arxiv.org/abs/2502.07590) accepted to ACM [ASPLOS’26](https://www.asplos-conference.org/asplos2026/).
 - **[01/2025]** &nbsp;[Ayo](https://dl.acm.org/doi/10.1145/3676641.3716278) accepted to ACM [ASPLOS’25](https://www.asplos-conference.org/asplos2025/).
